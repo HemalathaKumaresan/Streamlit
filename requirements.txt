@@ -7,3 +7,5 @@ pyodbc==4.0.30
 numpy==1.19.3
 azure_storage==0.36.0
 azure-cognitiveservices-speech==1.15.0
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
